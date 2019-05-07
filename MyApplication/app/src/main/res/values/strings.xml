@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Topic List</string>
+    <string name="txt_btn">Ajouter Topic</string>
+    <string name="topic_btn">Créer</string>
+</resources>
